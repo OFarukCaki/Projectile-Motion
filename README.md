@@ -12,7 +12,7 @@ graphics.h external library is required for C
 
 
 
-**Screenshot:**
+**Demo:**
 
 
 ![alt text](https://github.com/OFarukCaki/Projectile-Motion/blob/master/Python/EgikAtis.gif?raw=true)
